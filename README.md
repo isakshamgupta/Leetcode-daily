@@ -12,10 +12,17 @@ Welcome to my LeetCode solutions repo! 📚 This repo is dedicated to tracking m
 - 💻 Track progress publicly for motivation and growth
 
 ---
+| Date       | Question No. | Title                                         | Difficulty | Solution Link           |
+|------------|--------------|-----------------------------------------------|------------|-------------------------|
+| 2025-07-24 | 2894         | Divisible and Non-divisible Sums Difference   | Easy       | (./2025-07-24/q1.cpp)   |
+| 2025-07-25 | 3487         | Maximum Unique Subarray Sum After Deletion    | Easy       | (./2025-07-25/q1.cpp)   |
+| 2025-07-26 | 3136         | Valid Word                                    | Easy       | (./2025-07-26/q1.cpp)   |
 
 ## 🧠 Topics to be Covered
 
 - Arrays & Strings  
+- Linked List
+- Stack & Queue
 - Hash Tables  
 - Two Pointers  
 - Binary Search  
