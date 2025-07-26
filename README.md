@@ -1,6 +1,6 @@
 # 🚀 Daily LeetCode Challenge Tracker
 
-Welcome to my LeetCode solutions repo! 📚 This repo is dedicated to tracking my **daily problem-solving journey** on [LeetCode](https://leetcode.com/) — one problem at a time, every day.
+Welcome to my LeetCode solutions repo! 📚 This repo is dedicated to tracking my **daily problem-solving journey** on [LeetCode](https://leetcode.com/u/isakshamgupta/) — atleast one problem at a time, every day.
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to my LeetCode solutions repo! 📚 This repo is dedicated to tracking m
 - 💻 Track progress publicly for motivation and growth
 
 ---
-| Date       | Question No. | Title                                         | Difficulty | Solution Link           |
+| Date       | Question No. | Title                                         | Difficulty | Solution                |
 |------------|--------------|-----------------------------------------------|------------|-------------------------|
 | 2025-07-24 | 2894         | Divisible and Non-divisible Sums Difference   | Easy       | (./2025-07-24/q1.cpp)   |
 | 2025-07-25 | 3487         | Maximum Unique Subarray Sum After Deletion    | Easy       | (./2025-07-25/q1.cpp)   |
