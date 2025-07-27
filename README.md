@@ -17,6 +17,7 @@ Welcome to my LeetCode solutions repo! 📚 This repo is dedicated to tracking m
 | 2025-07-24 | 2894         | Divisible and Non-divisible Sums Difference   | Easy       | (./2025-07-24/q1.cpp)   |
 | 2025-07-25 | 3487         | Maximum Unique Subarray Sum After Deletion    | Easy       | (./2025-07-25/q1.cpp)   |
 | 2025-07-26 | 3136         | Valid Word                                    | Easy       | (./2025-07-26/q1.cpp)   |
+| 2025-07-27 | 2210         | Count Hills and Valleys in an Array           | Easy       | (./2025-07-27/q1.cpp)   |
 
 ## 🧠 Topics to be Covered
 
