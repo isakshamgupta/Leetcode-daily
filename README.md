@@ -20,6 +20,8 @@ Welcome to my LeetCode solutions repo! 📚 This repo is dedicated to tracking m
 | 2025-07-27 | 2210         | Count Hills and Valleys in an Array           | Easy       | (./2025-07-27/q1.cpp)   |
 | 2025-07-28 | 2044         | Count Number of Maximum Bitwise-OR Subsets    | Medium     | (./2025-07-28/q1.cpp)   |
 | 2025-07-30 | 2419         | Longest Subarray With Maximum Bitwise AND     | Medium     | (./2025-07-30/q1.cpp)   |
+| 2025-08-01 | 118          | Pascal triangle                               | Easy       | (./2025-08-01/q1.cpp)   |
+
 ## 🧠 Topics to be Covered
 
 - Arrays & Strings  
