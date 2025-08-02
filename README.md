@@ -21,6 +21,7 @@ Welcome to my LeetCode solutions repo! 📚 This repo is dedicated to tracking m
 | 2025-07-28 | 2044         | Count Number of Maximum Bitwise-OR Subsets    | Medium     | (./2025-07-28/q1.cpp)   |
 | 2025-07-30 | 2419         | Longest Subarray With Maximum Bitwise AND     | Medium     | (./2025-07-30/q1.cpp)   |
 | 2025-08-01 | 118          | Pascal triangle                               | Easy       | (./2025-08-01/q1.cpp)   |
+| 2025-08-02 | 3622         | Check Divisibility by Digit Sum and Product   | Easy       | (./2025-08-02/q1.cpp)   |
 
 ## 🧠 Topics to be Covered
 
